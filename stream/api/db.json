@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this is a get stream",
+      "id": 1
+    },
+    {
+      "title": "afa edi",
+      "description": "aasfaf",
+      "id": 3
+    },
+    {
+      "title": "edit 2",
+      "description": "dddd",
+      "id": 4
+    },
+    {
+      "title": "test edit",
+      "description": "test",
+      "id": 5
+    },
+    {
+      "title": "fafdf",
+      "description": "sdfsdf",
+      "userId": "112712151442002419634",
+      "id": 6
+    }
+  ]
+}
